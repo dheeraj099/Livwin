@@ -1,0 +1,39 @@
+.contact-us  {
+    position: absolute;
+    width: 274px;
+    height: 30px;
+    left: 60px;
+    top: 3px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-align: center;
+
+    
+
+}
+.overlap-group {
+    position: absolute;
+    width: 274px;
+    height: 37px;
+    left: 1202px;
+    top: 27px;
+}
+.rectangle-3{
+    box-sizing: border-box;
+    position: absolute;
+    width: 180px;
+    height: 37px;
+    left: 9px;
+    top: 0px;
+    border: 1px solid #FFFFFF;
+    border-radius: 16px;
+  
+
+}

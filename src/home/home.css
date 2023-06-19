@@ -1,0 +1,847 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:780,980,688");
+
+.screen a {
+
+    display: contents;
+
+    text-decoration: none;
+}
+
+.container-center-horizontal {
+    display: flex;
+    background: #1E1E1E;
+    height: auto;
+}
+.desktop-1 {
+    position: relative;
+    width: 1517px !important;
+    height: 4021px;
+    background: #0F0F0F;
+}
+
+
+
+.overlap-group1 {
+    height: 954px;
+    position: relative;
+    width: 1519px;
+    background-color: #0F0F0F;
+}
+
+.title {
+    position: absolute;
+    width: 1371px;
+    height: 190px;
+    left: 98px;
+    top: 345px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 98.52%;
+    /* or 95px */
+
+    display: flex;
+    align-items: center;
+
+    color: #F5F5F5;
+
+
+}
+
+
+
+.step-into-the {
+    
+    position: absolute;
+    width: 1143px;
+    height: 39px;
+    left: -364px;
+    top: 372px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 98.52%;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(90.16deg, #D4AF37 0.07%, #ECDCA8 21.19%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+
+
+
+
+.what-drives-us {
+    position: absolute;
+    width: 304px;
+    height: 39px;
+    left: 182px;
+    top: 1560px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 98.52%;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(90.14deg, #D4AF37 43.43%, #ECDCA8 61.26%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.we-are-committed-to {
+    position: absolute;
+    width: 669px;
+    height: 96px;
+    left: 210px;
+    top: 1575px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 134.52%;
+    /* or 48px */
+
+    display: flex;
+    align-items: center;
+
+    color: #F5F5F5;
+
+    backdrop-filter: blur(2px);
+}
+
+.at-liv-win-we-are-a {
+    position: absolute;
+    width: 727px;
+    height: 81px;
+    left: 796px;
+    top: 1506px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 134.52%;
+    /* or 27px */
+
+    display: flex;
+    align-items: center;
+
+    color: #F5F5F5;
+
+    backdrop-filter: blur(2px);
+}
+
+.our-team-of-experts {
+    position: absolute;
+    width: 727px;
+    height: 108px;
+    left: 796px;
+    top: 1676px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 134.52%;
+    /* or 27px */
+
+    display: flex;
+    align-items: center;
+
+    color: #F5F5F5;
+
+    backdrop-filter: blur(2px);
+}
+
+.business-consulting {
+    position: absolute;
+    width: 221px;
+    height: 82px;
+    left: 699px;
+    top: 2336px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 115.02%;
+    /* or 41px */
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: #B49943;
+
+}
+
+.digital-services {
+    position: absolute;
+    width: 164px;
+    height: 82px;
+    left: 1039px;
+    top: 2512px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 115.02%;
+    /* or 41px */
+
+    display: flex;
+    align-items: center;
+
+    color: #EBDAA1;
+}
+
+.business-development-services {
+    position: absolute;
+    width: 426px;
+    height: 82px;
+    left: 1067px;
+    top: 2710px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 115.02%;
+    /* or 41px */
+
+    display: flex;
+    align-items: center;
+
+    color: #ECDCA8;
+}
+
+.ta-hr-services {
+    position: absolute;
+    width: 577px;
+    height: 41px;
+    left: 1066px;
+    top: 2914px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 115.02%;
+    /* or 41px */
+
+
+    color: #D3BE7A;
+}
+
+.support-services {
+    position: absolute;
+    width: 397px;
+    height: 41px;
+    left: 224px;
+    top: 2873px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 115.02%;
+    /* or 41px */
+
+    text-align: right;
+
+    color: #BAA04E;
+
+}
+
+.education-and-career-services {
+    position: absolute;
+    width: 322px;
+    height: 82px;
+    left: 200px;
+    top: 2692px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 115.02%;
+    /* or 41px */
+
+    text-align: right;
+
+    color: #B49943;
+}
+
+.creative-and-branding-services {
+    position: absolute;
+    width: 342px;
+    height: 82px;
+    left: 285px;
+    top: 2488px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 115.02%;
+    /* or 41px */
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: #B49943;
+}
+
+.services-we-provide {
+    position: absolute;
+    width: 519px;
+    height: 78px;
+    left: 547px;
+    top: 2653px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 98.52%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(84.98deg, #D4AF37 39.88%, #ECDCA8 67.38%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+}
+
+.how-we-different {
+
+    position: absolute;
+    width: 1371px;
+    height: 126px;
+    left: 98px;
+    top: 3354px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 98.52%;
+    /* or 63px */
+
+    display: flex;
+    align-items: center;
+
+    color: #F5F5F5;
+}
+
+.overlap-group3 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 487px;
+    height: 487px;
+    left: 704px;
+    top: 2448px;
+}
+
+.knowmore {
+    position: absolute;
+    width: 244px;
+    height: 19px;
+    left: 675px;
+    top: 2744px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 134.52%;
+    /* identical to box height, or 19px */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #D4AF37;
+
+    backdrop-filter: blur(2px);
+}
+
+.overlap-group6 {
+    background-color: #1E1E1E;
+}
+
+.x {
+    position: absolute;
+    width: 1519px;
+    height: 101px;
+    left: 0px;
+    top: -2px;
+    background: #0F0F0F;
+}
+
+.place {
+    position: absolute;
+    width: 126px;
+    height: 30px;
+    left: 96px;
+    top: 35px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #D6B23E;
+}
+
+.services {
+    position: absolute;
+    width: 124px;
+    height: 30px;
+    left: 243px;
+    top: 35px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.about-us {
+    position: absolute;
+    width: 125px;
+    height: 30px;
+    left: 387px;
+    top: 35px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+
+.livwin-bi-logo {
+    position: absolute;
+    width: 92px;
+    height: 56px;
+    left: 709px;
+    top: 22px;
+
+
+}
+
+
+
+
+
+.rectangle-3 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 242px;
+height: 37px;
+left: 1560px;
+top: 38px;
+
+border: 1px solid #FFFFFF;
+border-radius: 16px;
+}
+
+.livwin-bi-logo-1 {
+    position: absolute;
+    width: auto;
+    height: 800.75px;
+    left: 778px;
+    top: 0;
+
+
+}
+
+.flex-row-1 {
+    align-items: center;
+    display: flex;
+    letter-spacing: 0;
+    line-height: 63.1px;
+    margin-top: 399px;
+    width: 1371px;
+}
+
+.at-iv-win-we-specia {
+    position: absolute;
+    width: 1099px;
+    height: 69px;
+    left: 98px;
+    top: 597px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 115.02%;
+    /* or 23px */
+
+    display: flex;
+    align-items: center;
+    text-align: justify;
+
+    color: #F5F5F5;
+}
+
+.knowmore-1 {
+    position: absolute;
+    width: 121px;
+    height: 22px;
+    left: 185px;
+    top: 1710px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 134.52%;
+    display: flex;
+    align-items: center;
+    text-decoration-line: underline;
+    color: #D4AF37 !important;
+
+}
+
+.flex-row {
+    align-items: center;
+    display: flex;
+    gap: 15px;
+    height: 737px;
+    margin-top: 264px;
+    min-width: 1747px;
+}
+
+.flex-col-2 {
+    align-items: flex-start;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-right: 800px;
+    margin-top: 382px;
+    min-height: 1144px;
+    width: 1545px;
+    height: 100%;
+}
+
+.at-liv-win-we-believ {
+    position: absolute;
+    width: 561px;
+    height: 442px;
+    left: 98px;
+    top: 3524px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 170.02%;
+    /* or 34px */
+
+    display: flex;
+    align-items: center;
+
+    color: #F5F5F5;
+}
+
+.rectangle-14 {
+    border: 1px dashed;
+    border-color: white;
+    height: 241px;
+    left: 9px;
+    position: absolute;
+    top: 1150px;
+    width: 357px;
+}
+
+.ellipse-1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 487px;
+    height: 487px;
+    left: 553px;
+    top: 2448px;
+}
+
+.ellipse-10 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 774px;
+    top: 2435px;
+
+    background: linear-gradient(136.02deg, #FFFFFF 6.91%, rgba(255, 255, 255, 0) 94.43%);
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+
+}
+
+.ellipse-7 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 983px;
+    top: 2547px;
+
+    background: linear-gradient(136.02deg, #FFFFFF 6.91%, rgba(255, 255, 255, 0) 94.43%);
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+
+}
+
+.ellipse-8 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 1015px;
+    top: 2728px;
+
+    background: linear-gradient(136.02deg, #FFFFFF 6.91%, rgba(255, 255, 255, 0) 94.43%);
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+
+}
+
+.ellipse-9 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 882px;
+    top: 2892px;
+
+    background: linear-gradient(136.02deg, #FFFFFF 6.91%, rgba(255, 255, 255, 0) 94.43%);
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+
+}
+
+.ellipse-12 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 544px;
+    top: 2708px;
+
+    background: linear-gradient(136.02deg, #FFFFFF 6.91%, rgba(255, 255, 255, 0) 94.43%);
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+
+}
+
+.ellipse-13 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 647px;
+    top: 2874px;
+
+    background: linear-gradient(136.02deg, #FFFFFF 6.91%, rgba(255, 255, 255, 0) 94.43%);
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+
+}
+
+.ellipse-11 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 598px;
+    top: 2515px;
+
+    background: linear-gradient(136.02deg, #FFFFFF 6.91%, rgba(255, 255, 255, 0) 94.43%);
+    border: 1px solid #FFFFFF;
+    border-radius: 50%;
+}
+
+.overlap-group4 {
+    align-items: flex-start;
+    background-image: url(../assets/livwin-bi-logo-bl.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    min-height: 37px;
+    padding: 264px 126px;
+    width: 905px;
+}
+
+.polygon-1 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 282px;
+    height: 282px;
+    left: 1184px;
+    top: 3562px;
+
+    /* border: 1px dashed #FFFFFF; */
+    border-radius: 26px;
+}
+
+.ellipse-32 {
+    position: absolute;
+    width: 18px;
+    height: 19px;
+    left: 0;
+    top: 1142px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+.ellipse-31 {
+    position: absolute;
+    width: 18px;
+    height: 19px;
+    left: 358px;
+    top: 1142px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+.ellipse-29 {
+    position: absolute;
+    width: 18px;
+    height: 19px;
+    left: 0;
+    top: 1381px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+.ellipse-30 {
+    position: absolute;
+    width: 18px;
+    height: 19px;
+    left: 358px;
+    top: 1381px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+.ellipse-39 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 1314px;
+    top: 3557px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+.ellipse-38 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 1431px;
+    top: 3618px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+.ellipse-33 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 1202px;
+    top: 3618px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+
+.ellipse-34 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 1179px;
+    top: 3733px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+.ellipse-37 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 1455px;
+    top: 3733px;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+    border-radius: 50%;
+}
+
+.ellipse-36 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 1382px;
+    top: 3827px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+}
+.ellipse-35 {
+    position: absolute;
+    width: 18px;
+    height: 18px;
+    left: 1255px;
+    top: 3827px;
+    border-radius: 50%;
+    background: linear-gradient(135deg, #D4AF37 0%, #E6D290 61.43%);
+}
+
+.gold-20px{
+
+color: #D4AF37;
+
+
+}
+
