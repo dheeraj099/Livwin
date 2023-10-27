@@ -36,7 +36,7 @@
 .servicesPage {
     position: relative;
     width: 1517px !important;
-    height: 4021px;
+    height: 3421px;
     background: #0F0F0F;
     left: -1px;
 }
@@ -45,7 +45,7 @@
     height: 968px;
     margin-top: 0;
     position: relative;
-    width: 1920px;
+    width: 100%;
 }
 
 .SP-services-we-provide {
@@ -53,7 +53,7 @@
     position: absolute;
     width: 875px;
     height: 39px;
-    left: -169px;
+    left: -80px;
     top: 335px;
     font-family: 'Inter';
     font-style: normal;
@@ -197,15 +197,15 @@
 .discover-how-liv-win {
 
     position: absolute;
-    width: 1021px;
-    height: 350px;
-    left: 98px;
-    top: 276px;
+    width: auto;
+    height: 347px;
+    left: 159px;
+    top: 279px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 900;
-    font-size: 64px;
-    line-height: 96.02%;
+    font-size: 46px;
+    line-height: 1;
     display: flex;
     align-items: center;
     color: #F5F5F5;
@@ -223,21 +223,26 @@
 
 .livwin-bi-logo-2-1 {
 
-    height: 850px;
-    left: 719px;
+    width: 10%;
     position: absolute;
     top: 0px;
-    width: 799px;
+    width: 712px;
+    left: 806px;
+}
+
+.Rectangles_Main_Div {
+
+    padding-top: 20px;
 }
 
 .services-you-can-choose-from {
 
 
     position: absolute;
-    width: 1434px;
+    width: 67%;
     height: 32px;
     left: 238px;
-    top: 1054px;
+    top: 848px;
 
     font-family: 'Inter';
     font-style: normal;
@@ -294,9 +299,57 @@
 .SP-group6 {
     position: absolute;
     width: 363px;
+    height: auto;
+    left: -150px;
+    top: -300px;
+}
+
+.SP-group7 {
+    position: absolute;
+    width: 363px;
+    height: 100%;
+    left: 310px;
+    top: -300px;
+}
+
+.SP-group8 {
+    position: absolute;
+    width: 363px;
     height: 576px;
-    left: 265px;
-    top: 1336px;
+    left: 780px;
+    top: -300px;
+}
+
+.SP-group10 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: -150px;
+    top: 27rem;
+}
+
+.SP-group11 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: 310px;
+    top: 27rem;
+}
+
+.SP-group12 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: 780px;
+    top: 27rem;
+}
+
+.SP-group13 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: -150px;
+    top: 74rem;
 }
 
 .SP-Business-Consulting {
@@ -324,6 +377,19 @@
 
     position: absolute;
     width: 363px;
+    height: 610px;
+    left: 265px;
+    top: 1336px;
+
+    border: 4px solid #FFFFFF;
+    border-radius: 8px;
+}
+
+.SP-Rectangle {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 363px;
     height: 576px;
     left: 265px;
     top: 1336px;
@@ -331,6 +397,7 @@
     border: 4px solid #FFFFFF;
     border-radius: 8px;
 }
+
 
 .SP-Focus-area {
     position: absolute;
@@ -360,7 +427,7 @@
 
 .SP-Business-Growth {
     position: absolute;
-    width: 295px;
+    width: 314px;
     height: 146px;
     left: 291px;
     top: 1572px;
@@ -387,4 +454,160 @@
 
     border: 4px solid #FFFFFF;
     border-radius: 8px;
+}
+
+@media screen and (min-width:1920px) {
+
+    .servicesPage {
+        position: relative;
+        width: 100% !important;
+        height: 3421px;
+        background: #0F0F0F;
+        left: -1px;
+    }
+
+    .livwin-bi-logo-2-1 {
+        width: 10%;
+        position: absolute;
+        top: 0px;
+        width: 872px;
+        left: 1028px;
+    }
+
+    .discover-how-liv-win {
+        position: absolute;
+        width: auto;
+        height: 347px;
+        left: 159px;
+        top: 279px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 1;
+        display: flex;
+        align-items: center;
+        color: #F5F5F5;
+    }
+
+    .services-you-can-choose-from {
+        position: absolute;
+        width: 67%;
+        height: 32px;
+        left: 322px;
+        top: 913px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 98.52%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #F5F5F5;
+    }
+
+    .SP-group6 {
+        position: absolute;
+        width: 363px;
+        height: auto;
+        left: -11px;
+        top: -300px;
+    }
+
+    .SP-group7 {
+        position: absolute;
+        width: 363px;
+        height: 100%;
+        left: 500px;
+        top: -300px;
+    }
+
+    .SP-group8 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: 1000px;
+        top: -300px;
+    }
+
+    .SP-group10 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: -10px;
+        top: 27rem;
+    }
+
+    .SP-group11 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: 500px;
+        top: 27rem;
+    }
+
+    .SP-group12 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: 1000px;
+        top: 27rem;
+    }
+
+    .SP-group13 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: -13px;
+        top: 74rem;
+    }
+}
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+}
+
+@media screen and (max-width:480px) {
+    .rectangles-main-div {
+        display: none;
+    }
+
+    .swiper {
+        width: 23%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .SwiperDiv {
+        display: none;
+    }
 }
