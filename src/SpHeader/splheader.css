@@ -1,0 +1,166 @@
+.contact-us {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 274px;
+    height: 30px;
+    left: 1120px;
+    top: 3px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+    text-align: center;
+
+
+
+}
+
+.overlap-group {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    position: absolute;
+    width: 100%;
+    height: 37px;
+    left: 0;
+    top: 27px;
+}
+
+.rectangle-3 {
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    position: absolute;
+    width: 180px;
+    height: 37px;
+    left: 1169px;
+    top: 0px;
+    border: 1px solid #FFFFFF;
+    border-radius: 16px;
+
+
+}
+
+.SpHeaderServices {
+    background: none;
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    z-index: 10;
+
+}
+
+.SpHeaderHome {
+    background: none;
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    z-index: 10;
+
+
+}
+
+.SpHeaderAbout {
+    background: none;
+    border: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    z-index: 10;
+}
+.HeadersfoMobileDevices{
+    display: none;
+}
+@media screen and (min-width:1920px) {
+
+    .overlap-group {
+        display: flex;
+        align-items: flex-end;
+        justify-content: flex-end;
+        position: absolute;
+        width: 100%;
+        height: 37px;
+        left: 380px;
+        top: 27px;
+        background-color: black !important;
+        z-index: 999;
+    }
+
+    .livwin-bi-logo {
+        position: absolute;
+        width: 92px;
+        height: 56px;
+        left: 895px;
+        top: 22px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .x {
+        display: none;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .HamburgerMenu {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-end;
+        justify-content: flex-end;
+        width: 100%;
+        margin-right: 17px;
+        margin-top: 17px;
+        z-index: 2;
+    }
+
+    .HamburgerContents {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .livwin-bi-logo {
+        display: flex !important;
+        align-items: flex-start;
+        justify-content: flex-start;
+        left: 0;
+    }
+
+    .HeadersfoMobileDevices {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .LogoSmallForMobile {
+        display: flex;
+        width: 46px;
+        height: 29px;
+        flex-shrink: 0;
+        margin-top: 17px;
+        margin-left: 17px;
+    }
+}

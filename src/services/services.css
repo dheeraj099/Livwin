@@ -1,0 +1,613 @@
+@import url("https://fonts.googleapis.com/css? family=Inter:700,900");
+
+.SP-screen a {
+
+    display: contents;
+    text-decoration: none;
+}
+
+.ServicesPage-container-center-horizontal {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: center;
+
+    pointer-events: none;
+
+    width: 100%;
+}
+
+.ServicesPage-container-center-horizontal>* {
+
+    flex-shrink: 0;
+
+    pointer-events: auto;
+}
+
+.valign-text-middle {
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+}
+
+.servicesPage {
+    position: relative;
+    width: 1517px !important;
+    height: 3421px;
+    background: #0F0F0F;
+    left: -1px;
+}
+
+.SP-overlap-group1 {
+    height: 968px;
+    margin-top: 0;
+    position: relative;
+    width: 100%;
+}
+
+.SP-services-we-provide {
+
+    position: absolute;
+    width: 875px;
+    height: 39px;
+    left: -80px;
+    top: 335px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 98.52%;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(90.14deg, #D4AF37 39.49%, #ECDCA8 62.22%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+}
+
+.SP-x {
+
+
+    position: absolute;
+    width: 1920px;
+    height: 101px;
+    left: 0px;
+    top: -2px;
+
+    background: #0F0F0F;
+}
+
+.SP-place {
+
+
+    position: absolute;
+    width: 124px;
+    height: 30px;
+    left: 99px;
+    top: 35px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.services-1 {
+    position: absolute;
+    width: 126px;
+    height: 30px;
+    left: 242px;
+    top: 35px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #E5CF87;
+
+}
+
+.SP-about-us {
+
+    position: absolute;
+    width: 125px;
+    height: 30px;
+    left: 387px;
+    top: 35px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.SP-livwin-bi-logo {
+    align-self: flex-start;
+    height: 56px;
+    margin-left: 397px;
+    width: 92px;
+}
+
+.SP-overlap-group {
+    position: absolute;
+    width: 274px;
+    height: 30px;
+    left: 1544px;
+    top: 41px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+
+    border: 1px solid #000000
+}
+
+/* .contact-us {
+    -webkit-text-stroke: 1px var(--black);
+    height: 30px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 274px;
+
+} */
+
+.sp-rectangle-3 {
+    border: 1px solid;
+    border-color: var(--white);
+    border-radius: 16px;
+    height: 37px;
+    left: 17px;
+    position: absolute;
+    top: 0;
+    width: 242px;
+}
+
+.discover-how-liv-win {
+
+    position: absolute;
+    width: auto;
+    height: 347px;
+    left: 159px;
+    top: 279px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 46px;
+    line-height: 1;
+    display: flex;
+    align-items: center;
+    color: #F5F5F5;
+}
+
+
+.span0 {
+    line-height: 61.5px;
+}
+
+.span1 {
+
+    line-height: 70.7px;
+}
+
+.livwin-bi-logo-2-1 {
+
+    width: 10%;
+    position: absolute;
+    top: 0px;
+    width: 712px;
+    left: 806px;
+}
+
+.Rectangles_Main_Div {
+
+    padding-top: 20px;
+}
+
+.services-you-can-choose-from {
+
+
+    position: absolute;
+    width: 67%;
+    height: 32px;
+    left: 238px;
+    top: 848px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 32px;
+    line-height: 98.52%;
+    /* identical to box height, or 32px */
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #F5F5F5;
+}
+
+.group-container {
+
+    align-items: flex-start;
+    display: flex;
+    gap: 150px;
+
+    margin-right: 1px;
+    margin-top: 251px;
+    min-width: 1389px;
+}
+
+.SP-group {
+    height: 576px;
+    width: 363px;
+}
+
+.group-container-1 {
+    align-items: flex-start;
+    display: flex;
+    gap: 150px;
+    margin-right: 1px;
+    margin-top: 155px;
+    min-width: 1389px;
+}
+
+
+.group-12 {
+
+
+    align-self: flex-start;
+
+    height: 576px;
+    margin-left: 270px;
+    margin-top: 155px;
+
+    width: 363px;
+}
+
+.SP-group6 {
+    position: absolute;
+    width: 363px;
+    height: auto;
+    left: -150px;
+    top: -300px;
+}
+
+.SP-group7 {
+    position: absolute;
+    width: 363px;
+    height: 100%;
+    left: 310px;
+    top: -300px;
+}
+
+.SP-group8 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: 780px;
+    top: -300px;
+}
+
+.SP-group10 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: -150px;
+    top: 27rem;
+}
+
+.SP-group11 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: 310px;
+    top: 27rem;
+}
+
+.SP-group12 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: 780px;
+    top: 27rem;
+}
+
+.SP-group13 {
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: -150px;
+    top: 74rem;
+}
+
+.SP-Business-Consulting {
+    position: absolute;
+    width: 311px;
+    height: 100.07px;
+    left: 291px;
+    top: 1394.58px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 115.02%;
+    /* or 41px */
+
+    display: flex;
+    align-items: center;
+
+    color: #F5F5F5;
+}
+
+.SP-Rectangle7 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 363px;
+    height: 610px;
+    left: 265px;
+    top: 1336px;
+
+    border: 4px solid #FFFFFF;
+    border-radius: 8px;
+}
+
+.SP-Rectangle {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: 265px;
+    top: 1336px;
+
+    border: 4px solid #FFFFFF;
+    border-radius: 8px;
+}
+
+
+.SP-Focus-area {
+    position: absolute;
+    width: 321.26px;
+    height: 29.29px;
+    left: 291px;
+    top: 1531.13px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 98.52%;
+    /* or 24px */
+
+    display: flex;
+    align-items: center;
+
+    background: linear-gradient(90.18deg, #D4AF37 0%, #ECDCA8 23.5%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+    transform: matrix(1, -0.01, 0, 1, 0, 0);
+}
+
+.SP-Business-Growth {
+    position: absolute;
+    width: 314px;
+    height: 146px;
+    left: 291px;
+    top: 1572px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 146.02%;
+    /* or 29px */
+
+
+    color: #FFFFFF;
+}
+
+.SP-Rectangle8 {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 363px;
+    height: 576px;
+    left: 778px;
+    top: 1336px;
+
+    border: 4px solid #FFFFFF;
+    border-radius: 8px;
+}
+
+@media screen and (min-width:1920px) {
+
+    .servicesPage {
+        position: relative;
+        width: 100% !important;
+        height: 3421px;
+        background: #0F0F0F;
+        left: -1px;
+    }
+
+    .livwin-bi-logo-2-1 {
+        width: 10%;
+        position: absolute;
+        top: 0px;
+        width: 872px;
+        left: 1028px;
+    }
+
+    .discover-how-liv-win {
+        position: absolute;
+        width: auto;
+        height: 347px;
+        left: 159px;
+        top: 279px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 64px;
+        line-height: 1;
+        display: flex;
+        align-items: center;
+        color: #F5F5F5;
+    }
+
+    .services-you-can-choose-from {
+        position: absolute;
+        width: 67%;
+        height: 32px;
+        left: 322px;
+        top: 913px;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 32px;
+        line-height: 98.52%;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        color: #F5F5F5;
+    }
+
+    .SP-group6 {
+        position: absolute;
+        width: 363px;
+        height: auto;
+        left: -11px;
+        top: -300px;
+    }
+
+    .SP-group7 {
+        position: absolute;
+        width: 363px;
+        height: 100%;
+        left: 500px;
+        top: -300px;
+    }
+
+    .SP-group8 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: 1000px;
+        top: -300px;
+    }
+
+    .SP-group10 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: -10px;
+        top: 27rem;
+    }
+
+    .SP-group11 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: 500px;
+        top: 27rem;
+    }
+
+    .SP-group12 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: 1000px;
+        top: 27rem;
+    }
+
+    .SP-group13 {
+        position: absolute;
+        width: 363px;
+        height: 576px;
+        left: -13px;
+        top: 74rem;
+    }
+}
+
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+}
+
+@media screen and (max-width:480px) {
+    .rectangles-main-div {
+        display: none;
+    }
+
+    .swiper {
+        width: 23%;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+    }
+
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .SwiperDiv {
+        display: none;
+    }
+}

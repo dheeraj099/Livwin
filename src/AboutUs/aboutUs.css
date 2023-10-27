@@ -1,0 +1,349 @@
+.AboutUs-MainDiv {
+    width: 100%;
+    height: auto;
+    background: #0F0F0F;
+}
+#AboutUs-Header{
+    background-color: #0F0F0F !important;
+}
+
+.AboutUs-Rectangle5 {
+    width: 100%;
+    height: 734px;
+    flex-shrink: 0;
+    background: #D4AF37;
+    margin-top: 90px !important;
+}
+:root  {
+    background: black !important;
+    z-index: 999;
+}
+
+.aboutUsLogo {
+    width: 690px;
+    height: auto;
+    margin-left: 829px;
+    margin-top: -4px;
+}
+
+.AboutUs-title {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+    left: 99px
+}
+
+.What-makes-LivWin-your {
+    color: #0F0F0F;
+    text-align: justify;
+    font-size: 20px;
+    font-family: Inter;
+    font-weight: 600;
+    line-height: 115.023%;
+    margin-left: 104px;
+    margin-top: -852px;
+}
+
+.We-Bring-a-Winning {
+    color: #0F0F0F;
+    font-size: 64px;
+    font-family: Inter;
+    font-weight: 900;
+    line-height: 98.523%;
+    margin-left: 99px;
+    margin-top: -405px;
+
+}
+
+.AboutUs-Rectangle6 {
+    background-color: #0F0F0F;
+    height: 913px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.About-Liwin_mainDiv {
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.About-Liwin {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(180deg, rgb(212, 175, 55)0%, rgb(236, 220, 168)100%);
+    background-clip: text;
+    height: 39px;
+    letter-spacing: 0;
+    line-height: 98.523%;
+    text-align: center;
+
+    white-space: nowrap;
+    width: 747px;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: -77px
+}
+
+.About-Liwin-description {
+    display: flex;
+    width: 1302px;
+    flex-direction: column;
+    justify-content: center;
+    /* align-self: center; */
+    flex-shrink: 0;
+
+}
+
+.AboutDescription {
+    color: #F5F5F5;
+    text-align: center;
+    font-size: 27px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 134.523%;
+}
+
+.About-Liwin_mainDiv-second-part {
+    height: 100%;
+    width: 0%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:70px;
+}
+
+.Our-Approch-Div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: center;
+}
+
+.title-Our-Approch {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(180deg, rgb(212, 175, 55)0%, rgb(236, 220, 168)100%);
+    background-clip: text;
+    height: 39px;
+    letter-spacing: 0;
+    line-height: 98.523%;
+    text-align: center;
+
+    white-space: nowrap;
+    width: 523px;
+    font-weight: 700;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.Our-approch-description {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    /* align-self: center; */
+    flex-shrink: 0;
+}
+
+.ApprochDescription {
+    color: #F5F5F5;
+    text-align: start;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 134.523%;
+    margin-top: -28px;
+}
+
+.Our-Enterprise-Div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: center;
+}
+
+.title-Our-Enterprise {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(180deg, rgb(212, 175, 55)0%, rgb(236, 220, 168)100%);
+    background-clip: text;
+    height: 39px;
+    letter-spacing: 0;
+    line-height: 98.523%;
+    text-align: center;
+
+    white-space: nowrap;
+    width: 523px;
+    font-weight: 700;
+    font-size: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.Our-Enterprise-description {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    /* align-self: center; */
+    flex-shrink: 0;
+    margin-top: -49px;
+}
+
+.EnterpriseDescription {
+    color: #F5F5F5;
+    text-align: start;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 134.523%;
+}
+
+.AboutUs-Rectangle7 {
+    width: 100%;
+    height: 624px;
+    flex-shrink: 0;
+}
+
+.Why-choose-livwin-main-Div {
+    display: flex;
+    width: 561px;
+    height: 408px;
+    flex-direction: column;
+    justify-content: center;
+    flex-shrink: 0;
+
+}
+
+.WhyChooseLivWin-Title {
+    color: #FFF;
+    text-align: right;
+    font-size: 128px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 89.023%;
+    margin-top: 100px;
+}
+
+.WhyChooseLivWin-Title-2nd-part {
+    color: rgb(212, 175, 55, 1);
+    text-align: right;
+    font-size: 147px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 89.023%;
+    margin-top: 0;
+}
+
+.aboutUs-footer-main-div {
+    display: flex;
+}
+
+.WhyChooseLivWin-Discriptin-main-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 408px;
+    margin-top: -68px;
+
+
+}
+
+.WhyChooseLivWin-Discription-brief {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    color: #D4AF37;
+    font-size: 18px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 123.023%;
+}
+
+@media screen and (min-width:1920px) {
+    :root  {
+        background: black !important;
+        z-index: 999;
+    }
+    .Main-About-with-Black{
+        background-color: black !important;
+    }
+    .aboutUsLogo {
+        width: 804px;
+        height: auto;
+        margin-left: 1099px;
+        margin-top: -10px;
+    }
+
+    .AboutUs-Rectangle5 {
+        width: 100%;
+        height: 849px;
+        flex-shrink: 0;
+        background: #D4AF37;
+        margin-top: 90px;
+    }
+
+    .We-Bring-a-Winning {
+        color: #0F0F0F;
+        font-size: 64px;
+        font-family: Inter;
+        font-weight: 900;
+        line-height: 98.523%;
+        margin-left: 99px;
+        margin-top: -352px;
+    }
+
+    .What-makes-LivWin-your {
+        color: #0F0F0F;
+        text-align: justify;
+        font-size: 20px;
+        font-family: Inter;
+        font-weight: 600;
+        line-height: 115.023%;
+        margin-left: 99px;
+        margin-top: -736px;
+    }
+    .AboutDescription {
+        color: #F5F5F5;
+        text-align: center;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 134.523%;
+    }
+
+    .WhyChooseLivWin-Discription-brief {
+        display: flex;
+        align-self: center;
+        justify-content: center;
+        color: #D4AF37;
+        font-size: 24px;
+        font-family: Inter;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 123.023%;
+    }
+
+    .aboutUs-footer-main-div {
+        display: flex;
+        margin-top: 280px;
+    }
+
+}
